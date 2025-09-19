@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a832069d-5fa1-41ed-ba92-bb6d661912d1" name="Changes" comment="">
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/tcc.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/tcc.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -12,6 +13,9 @@
       <change beforePath="$PROJECT_DIR$/Coronavirus.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Coronavirus.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/olhos1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/olhos1.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/olhos2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/olhos2.ipynb" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+>>>>>>> 8c874a6cf9f8319b2c0043954a5af689dc220681
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
